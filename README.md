@@ -31,5 +31,7 @@ Desarrolla las actividades 1 y 2, según los requerimientos solicitados a contin
  U: Número de Usuarios
  
  GT: Gastos Totales
+
+Uanterior: utilidades del año anterior
  
  Para ello, se te pide desarrollar este cálculo en tres versiones 
