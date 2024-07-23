@@ -32,7 +32,8 @@ Desarrolla las actividades 1 y 2, según los requerimientos solicitados a contin
  
  GT: Gastos Totales
 
-Uanterior: utilidades del año anterior
-Uactuales: utilidades actuales
+U_anterior: utilidades del año anterior
+
+U_actuales: utilidades actuales
  
  Para ello, se te pide desarrollar este cálculo en tres versiones 
